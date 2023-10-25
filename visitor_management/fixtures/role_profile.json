@@ -428,7 +428,7 @@
  {
   "docstatus": 0,
   "doctype": "Role Profile",
-  "modified": "2023-10-25 15:51:48.360981",
+  "modified": "2023-10-25 17:30:56.108699",
   "name": "web user",
   "role_profile": "web user",
   "roles": [
@@ -443,12 +443,6 @@
     "parentfield": "roles",
     "parenttype": "Role Profile",
     "role": "Website Manager"
-   },
-   {
-    "parent": "web user",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
-    "role": "System Manager"
    }
   ]
  },
