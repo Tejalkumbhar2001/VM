@@ -220,4 +220,6 @@ app_license = "MIT"
 fixtures = [
     "Role",
     "Role Profile",
+    "Workspace",
+    "Web Form",
 ]
