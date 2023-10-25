@@ -219,5 +219,5 @@ app_license = "MIT"
 
 fixtures = [
     "Role",
-    "Role Profile"
+    "Role Profile",
 ]
